@@ -2,7 +2,6 @@
   "name": "katon",
   "version": "0.1.0",
   "description": "Node JS Backend Framework",
-  "main": "lib/katon.js",
   "repository": "https://github.com/ElitDevs/katon",
   "author": "Chams AGOUNI",
   "license": "MIT"
